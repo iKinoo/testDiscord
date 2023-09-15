@@ -7,3 +7,5 @@ hello world!
 another test!
 
 commit 1
+
+commit 2
